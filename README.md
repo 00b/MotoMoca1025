@@ -7,4 +7,4 @@ Would be very easy to chang the output info or switch any outputs to JSON as the
 
 Optional to set device IP,username and password in script, otherwise provide via CLI arguments. 
 
-Usage: ./mm1025 -d \<IP\> -u \<UserName\> -p \<Password\>
+Usage: ./mm1025.py -d \<IP\> -u \<UserName\> -p \<Password\>
