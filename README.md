@@ -1,4 +1,6 @@
 # MotoMoca1025
+
+mm1025.py:
 Script to get config and status information from Motorola MoCa MM1025 adapters.
 
 Outputs text of most of the status and device info, but no PHY/rate data.  
