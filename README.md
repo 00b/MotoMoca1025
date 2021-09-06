@@ -4,6 +4,8 @@ mm1025.py:
 
 Usage: ./mm1025.py -d \<IP\> 
 
+Optional: -u \<username\> -p \<password\> 
+
 Script to get config and status information from Motorola MoCa MM1025 adapters.
 
 Outputs text most of the status and device info, but no PHY/rate data, or band/band mask info. 
