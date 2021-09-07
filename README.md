@@ -14,7 +14,7 @@ Optional to set device IP, username and password in script, or provide via CLI a
 
 Easy to change the output info.
 
-Script does not allow updating/changing of any configuration/settings. Though it should be doable with modification and adding using http puts. 
+Script does not allow updating/changing of any configuration/settings. Though it should be doable with modification and using http puts. 
 
 Default username preset as admin (default and not user changeable with firmware version 1.18.2.2.)
 
